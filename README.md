@@ -23,5 +23,15 @@ Flappy Bird  game clone built using Java and Swing Beginner-level game developme
 ```bash
 git clone https://github.com/r-ishabh12/FlappyBird-Java.git
 cd FlappyBird-Java
+```
+2.Compile and Run
+javac Gui/*.java
+java Gui.Main
+
+## ScreenShots and gameplay
+
+
+
+
 
 
