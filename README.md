@@ -25,11 +25,14 @@ git clone https://github.com/r-ishabh12/FlappyBird-Java.git
 cd FlappyBird-Java
 ```
 2.Compile and Run
+```bash
 javac Gui/*.java
 java Gui.Main
+```
 
 ## ScreenShots and gameplay
 
+![Flappy Bird Game Screenshot](Screenshot.png.png)
 
 
 
