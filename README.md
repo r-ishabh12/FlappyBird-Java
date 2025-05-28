@@ -32,7 +32,7 @@ java Gui.Main
 
 ## ScreenShots and gameplay
 
-![Flappy Bird Game Screenshot](Screenshot.png.png)
+![Flappy Bird Game Screenshot](Screenshot1.png)
 
 
 
